@@ -1418,4 +1418,7 @@
 
     <string name="usb_default_config_title">USB configuration</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+
+    <!-- Advanced Controls -->
+	<string name="advanced_controls_title">Advanced Controls</string>
 </resources>
